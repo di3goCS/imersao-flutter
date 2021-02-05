@@ -1,4 +1,4 @@
-# trivia
+# Trivia
 
 A new Flutter project.
 
